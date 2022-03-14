@@ -1,0 +1,3 @@
+[submodule "attackers/DDoS-Ripper"]
+	path = attackers/DDoS-Ripper
+	url = https://github.com/palahsu/DDoS-Ripper
